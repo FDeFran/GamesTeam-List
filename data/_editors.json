@@ -1,12 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "Learsi",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
-        "name": "List Admin",
+        "name": "FDeFran",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "FDeFran",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
