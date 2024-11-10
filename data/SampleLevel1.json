@@ -1,9 +1,9 @@
 {
     "id": 110919284,
-    "nombre": "Sunny",
+    "name": "Sunny",
     "author": "KoKitoz",
     "creators": ["KoKitoz", "FDeFran"],
-    "verificador": "FDeFran",
+    "verifier": "FDeFran",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": 56,
     "password": "Not Copyable",
