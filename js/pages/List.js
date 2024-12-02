@@ -98,30 +98,27 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Reglas de Completaciones y Verificaciones</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        La completacion o verificacion debe tener clicks, si usas un clickbot tu completacion no sera permitida.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Si el creador del nivel no te puso a ti como verificador tu verificacion no contara.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        No puedes usar ningun hack a la hora de pasarte el nivel, el cheat indicator debe estar activo en la completacion y verde durante toda la completacion, si tu mod menu no tiene cheat indicator o juegas en vanilla avisa a algun staff de lista antes de mandar la completacion.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        La completacion debe tener la muerte antes del intento que te lo pasaste, a excepcion si te lo pasaste a la primera, si es asi, debe estar grabado el momento en el que entraste al nivel.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        En la completacion se debe ver la endscreen.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        No uses secret ways o bugs para hacer el nivel mas facil.
                     </p>
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                 </div>
             </div>
