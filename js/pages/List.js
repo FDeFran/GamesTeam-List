@@ -118,7 +118,7 @@ export default {
                         No uses secret ways o bugs para hacer el nivel mas facil.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        No alternes la hitbox de NINGUN objeto para hacerlo mas facil.
                     </p>
                 </div>
             </div>
